@@ -1,4 +1,4 @@
-# 📊 YouTube Trending Analytics — AWS Cloud Data Lake Project
+# 📊 Cloud Based Data-Lake for YouTube-Video-Trend-Analysis
 
 ### A scalable, serverless data pipeline that ingests, transforms, and analyzes trending YouTube videos across regions using AWS services.
 ### 🚀 Project Overview
