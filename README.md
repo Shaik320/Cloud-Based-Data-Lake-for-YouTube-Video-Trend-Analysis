@@ -22,19 +22,30 @@ The architecture includes:
 ![image](https://github.com/user-attachments/assets/9a46e844-2a3b-4da6-906f-592bf1cfa79c)
 
 -->S3 for Data Lake zones: Landing, Cleansed, and Analytics
+
 -->AWS Glue for transformation and cataloging
+
 -->Lambda for lightweight processing
+
 -->Athena + QuickSight for querying and visualization
+
 -->IAM for access control and CloudWatch for monitoring
 
 ### 🧰 Technologies Used
 Amazon S3 – Object storage for Data Lake
+
 AWS Glue – Serverless ETL and Data Catalog
+
 AWS Lambda – Serverless code execution
+
 AWS Athena – SQL querying directly on S3
+
 Amazon QuickSight – BI dashboards
+
 AWS IAM – Secure access control
+
 AWS Step Functions – Workflow orchestration
+
 AWS CloudWatch – Monitoring and alerting
 
 
