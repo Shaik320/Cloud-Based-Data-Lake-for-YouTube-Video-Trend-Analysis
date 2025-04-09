@@ -5,12 +5,19 @@
 In a world where content drives engagement, this pipeline delivers powerful insights into what makes videos go viral. It can guide creators, inform marketers, and support data-driven decisions using a fully cloud-native stack—without any server management by perfectly demonstrating end-to-end fully cloud-native data architecture to analyze large-scale YouTube trending data from multiple countries and categories. It automates the ingestion, transformation, cataloging, and visualization of structured and semi-structured video data using AWS services like S3, Glue, Lambda, Athena, and QuickSight.
 
 ### 🎯 Project Goals
+
 ✅ Ingest raw YouTube trending data from multiple regions
+
 ✅ Build a centralized Data Lake on Amazon S3
+
 ✅ Perform ETL using AWS Glue and Lambda
+
 ✅ Enable interactive querying with Athena
+
 ✅ Secure the pipeline with AWS IAM
+
 ✅ Visualize insights using QuickSight Dashboards
+
 ✅ Ensure scalability and automation using Step Functions
 
 ### 📁 Dataset Used
